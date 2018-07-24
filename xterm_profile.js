@@ -4,7 +4,7 @@ const term = new Terminal({
   rows: 24
 })
 
-const ws = new WebSocket('ws://10.137.1.175:8999')
+const ws = new WebSocket(`ws://${location.hostname}:8999`)
 
 ws.addEventListener('open', function() {
   console.info('WebSocket connected')
