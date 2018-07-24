@@ -7,4 +7,4 @@ xterm + node-pty + websocket
 ## Getting Started
     node index.js
     
-Open your browser http://your device's IP:8999    
+Open your browser http://your_device's_IP:8999    
