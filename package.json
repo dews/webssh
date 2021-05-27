@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "^4.15.4",
     "node-pty": "^0.7.1",
-    "ws": "^5.2.2",
+    "ws": "^7.4.6",
     "xterm": "^3.5.1"
   },
   "devDependencies": {
